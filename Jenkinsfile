@@ -1,2 +1,3 @@
 @Library('java_basic_library') _
-java_basic_library();
+//Example java_basic_library("container","project-name","1.0.0-SNAPSHOT","user@email.com");
+java_basic_library("docker","deployrest-demo","1.0.0-SNAPSHOT","user@email.com");
